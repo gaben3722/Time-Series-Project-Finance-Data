@@ -1,1 +1,1 @@
-# Stock Market Price Trend Prediction Using Time Series Forecasting
+# Stock Market Price Trend Prediction Using LSTM
