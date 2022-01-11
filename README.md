@@ -1,1 +1,1 @@
-# Stock Market Price Trend Prediction Using LSTM
+# Stock Market Price Prediction Using LSTM
